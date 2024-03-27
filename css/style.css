@@ -1,0 +1,217 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/* body {
+    background: -webkit-linear-gradient(rgb(0, 0, 0), rgba(253, 255, 255, 0.881))!important;
+} */
+
+.about_page {
+    background-color: rgba(255, 255, 255, 0.881)!important;
+    color: #000000;
+}
+
+.navbar {
+    background-color: rgba(20, 19, 14, 0.881);
+}
+
+
+/* rgba(53, 36, 23, 0.881); */
+
+.navbar .nav-link {
+    color: #ffffff !important;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.navbar .nav-link:hover {
+    background-color: #f1f2f4;
+    color: #000000!important;
+}
+
+.icon_nav {
+    margin-right: 8px;
+    font-size: 20px;
+}
+
+.navbar-brand img {
+    height: 60px;
+}
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 500, 'GRAD' 0, 'opsz' 24;
+    font-size: 60px!important;
+    color: rgb(255, 255, 255);
+}
+
+.img_size {
+    border-radius: 15px;
+    transition-duration: 2s;
+    box-shadow: 0 0 15px rgba(53, 36, 23, 0.881);
+}
+
+.about_p {
+    text-align: justify;
+    font-size: 15px;
+    word-spacing: 2px;
+    line-height: 25px;
+}
+
+.about_p span {
+    font-size: 30px;
+}
+
+.proimg {
+    position: relative;
+}
+
+.btn-img {
+    position: absolute;
+    border: none;
+    width: 90px;
+    height: 40px;
+    top: 20%;
+    left: 12px;
+    background-color: #222;
+    color: #ffff;
+    opacity: 0.8;
+}
+
+.btn-img:hover {
+    background-color: #e40000;
+    color: #ffff;
+}
+
+.fa-layer-group,
+.fa-cubes,
+.fa-dungeon {
+    padding: 20px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.881);
+    color: white;
+    font-size: 50px !important;
+}
+
+.fa-cubes {
+    color: rgba(218, 66, 24, 0.881);
+}
+
+.fa-dungeon {
+    color: #7c6414;
+}
+
+.fa-layer-group {
+    color: #e86900;
+}
+
+.boxService {
+    transition-duration: 2s;
+}
+
+.boxService:hover {
+    background-color: rgba(20, 19, 14, 0.881);
+    box-shadow: 0 0 4px gold;
+    color: white;
+}
+
+.ACHIEVEMENTS {
+    background-color: #222;
+    color: white;
+}
+
+.fa-circle-play {
+    font-size: 90px;
+    background-color: #e86900;
+    color: #000000;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+
+/* .carousel-item img {
+    width: 100%;
+    height: auto;
+} */
+
+.img_card {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.owl-carousel .item img {
+    width: auto;
+    /* Ensure images take full width of their container */
+    height: 350px;
+    /* Adjust the height as needed */
+    object-fit: contain;
+    /* Scale images uniformly */
+}
+
+#footer {
+    background-color: rgba(20, 19, 14, 0.881);
+}
+
+.icon_size {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.Useful_link a {
+    text-decoration: none;
+    padding: 10px;
+    font-size: 17px;
+    color: #ffff;
+}
+
+.Useful_link h3 {
+    font-size: 25px;
+    color: #ffff;
+}
+
+.follo_us h3 {
+    color: #ffff;
+    font-size: 25px;
+}
+
+.follo_us span {
+    color: #ffff;
+}
+
+.Address h3 {
+    color: #ffff;
+    font-size: 25px;
+}
+
+.Address span {
+    color: #ffff;
+}
+
+.fa-linkedin {
+    color: #0762C8;
+}
+
+.fa-tiktok {
+    color: #010101;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-instagram {
+    color: #e13636;
+}
+
+.fa-upwork {
+    color: #73bb44;
+}
+
+.fa-envelope {
+    color: #62a8f2;
+}
+
+.fa-phone {
+    color: rgb(0, 241, 201);
+}
